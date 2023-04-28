@@ -4,7 +4,7 @@ We propose an overview of concepts and relations that are studied in social scie
 ## Data
 All data (including original, middle, and final data) are provided in the folder "Data." We employ 249 manually coded publications to train models and extract the concepts and relations from 12,563 publications automatically in our study. Here we also employ 249 manually coded publications to train models but only extract the concepts and relations from 1,324 publications (around 10% of 12,563 publications).
 
-# [Online System](https://concept-and-relations-overview.github.io/)
+## [Online System](https://concept-and-relations-overview.github.io/)
  We provide a online system for exploring the synthesized data. The appropriate screen resolution for using this system is 1920*1080. [A video](/static/Video.mp4) briefly introduces how to use this system.
 
 ## Usage Scenario
